@@ -7,9 +7,11 @@
       <sourceFolder url="file://$MODULE_DIR$/task_a,b,c" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task_if else" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task_second" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task_반복문" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task_비교" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task_연산자" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task_입력" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task_중첩 반복" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
