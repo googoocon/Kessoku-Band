@@ -8,6 +8,9 @@
       <sourceFolder url="file://$MODULE_DIR$/task_if else" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task_second" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task_반복문" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task_반복문continue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task_반복문do while" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task_반복문while" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task_비교" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task_연산자" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task_입력" isTestSource="false" />
