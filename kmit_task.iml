@@ -15,6 +15,11 @@
       <sourceFolder url="file://$MODULE_DIR$/task_연산자" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task_입력" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task_중첩 반복" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task_반복문dowhile" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task_중첩반복" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task_중첩반복과제" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task_구구단입력" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task_순서대로더하기" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
